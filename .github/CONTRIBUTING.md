@@ -1,12 +1,12 @@
 ## How to contribute to Slither.io-bot
 
-To get started, <a href="https://cla-assistant.io/ErmiyaEskandary/Slither.io-bot">sign the Contributor License Agreement</a>.
+To get started, <a href="https://cla-assistant.io/AlexJey/Slither.io-bot">sign the Contributor License Agreement</a>.
 
 #### **Did you find a bug?**
 
-* **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/ErmiyaEskandary/Slither.io-bot/issues).
+* **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/AlexJey/Slither.io-bot/issues).
 
-* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/ErmiyaEskandary/Slither.io-bot/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
+* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/AlexJey/Slither.io-bot/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
 When making your report, be sure to mention:
 
@@ -31,13 +31,13 @@ When making your report, be sure to mention:
 *Pull request are made to be discussed, thus collaborators may want you to change things. Don't make a new PR for these changes. Update your existing PR.*
 
 #### **Do you intend to add a new feature or change an existing one?**
-Check if it's been suggested already [here](https://github.com/ErmiyaEskandary/Slither.io-bot/issues).
+Check if it's been suggested already [here](https://github.com/AlexJey/Slither.io-bot/issues).
 
 If it has, or something very similar has :
 * Check out the discussion on that suggestion.
 * If you feel you have more to add, then comment it there. Don't make a brand new issue for something that has already been suggested.
 
-If it hasn't been suggested, suggest your change on [Gitter](https://gitter.im/ErmiyaEskandary/Slither.io-bot) if you need help or just [create an issue](https://github.com/ErmiyaEskandary/Slither.io-bot/issues/new).
+If it hasn't been suggested, suggest your change on [Gitter](https://gitter.im/AlexJey/Slither.io-bot) if you need help or just [create an issue](https://github.com/AlexJey/Slither.io-bot/issues/new).
 
 Be sure to include in your report:
 
@@ -51,11 +51,11 @@ Be sure to include in your report:
 
 #### **Do you have questions about the source code?**
 
-* Ask any question on [Gitter](https://gitter.im/ErmiyaEskandary/Slither.io-bot).
+* Ask any question on [Gitter](https://gitter.im/AlexJey/Slither.io-bot).
 
 
-Slither.io bot is a volunteer effort and is a collaborative and fun project. We encourage you to pitch in and [join the team](https://gitter.im/ErmiyaEskandary/Slither.io-bot)!
+Slither.io bot is a volunteer effort and is a collaborative and fun project. We encourage you to pitch in and [join the team](https://gitter.im/AlexJey/Slither.io-bot)!
 
 Thanks!
 
-ErmiyaEskandary, FliiFe and other contributers...
+AlexJey Channel, WordStd and other contributers...
